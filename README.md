@@ -165,7 +165,7 @@ O vídeo deve cobrir as seguintes etapas organizadas:
    - Insira o link do vídeo gravado no topo deste `README.md` (no campo indicado abaixo) ou conforme orientação do professor no AVA:
 
 ```markdown
-> 🔗 **Link da Apresentação em Vídeo:** [Insira o link aqui]
+> 🔗 **Link da Apresentação em Vídeo:** [https://youtu.be/koKDKp7LIfo
 ```
 
 ---
